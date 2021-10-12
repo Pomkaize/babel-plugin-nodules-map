@@ -1,0 +1,9 @@
+{
+  "name": "nodules-map-babel-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.15.8"
+  }
+}
