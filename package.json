@@ -1,5 +1,5 @@
 {
-  "name": "nodules-map-babel-plugin",
+  "name": "babel-plugin-nodules-map",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {},
